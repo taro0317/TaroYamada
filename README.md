@@ -1,7 +1,7 @@
 👋 Hi there, I'm Taro Yamada
 
 ## 💻 About Me
-I am a **software developer** from the Philippines with a passion for **solving challenging problems** and building clean, efficient code.  
+I am a **software developer** with a passion for **solving challenging problems** and building clean, efficient code.  
 I specialize in **debugging complex issues**, **reviewing and improving code quality**, and delivering solutions that **actually work in real-world projects**.
 
 - 🌱 Currently mastering: **React, Node.js, and Machine Learning**  
