@@ -17,17 +17,27 @@ My passion lies in bridging ideas with execution—delivering results that make 
 🤝 Collaboration: Strong team player, mentor, and advocate for high-quality code practices
 
 🛠️ Core Expertise
+
 Languages: Python | JavaScript/TypeScript | Java | C++
+
 Frameworks & Stacks: React | Vue | Angular | React Native | Flutter
+
 Tools & Platforms: Jira | Trello | Asana | Azure DevOps | Git | GitHub | GitLab | Bitbucket | SourceTree | Confluence
+
 Methodologies & Practices: Agile/Scrum | Testable, Reusable & Optimized Code | Scalable Architecture | High Security & Performance | Mentorship & Team Collaboration
 
 🚀 What I Do
+
 I take projects from concept to production, delivering robust, maintainable, and innovative solutions:
+
 -AI & Machine Learning applications
+
 -Automation & Web Scraping workflows
+
 -Full Stack web applications
+
 -Cross-platform mobile apps
+
 -Secure 3rd-party integrations
 
 I enjoy mentoring junior engineers, conducting code reviews, and fostering collaborative, high-performing teams.
