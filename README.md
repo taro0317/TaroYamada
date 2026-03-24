@@ -7,9 +7,13 @@ I specialize in solving complex problems with scalable, secure, and high-perform
 My passion lies in bridging ideas with execution—delivering results that make a real impact.
 
 💼 About Me
+
 🎓 Education: Bachelor’s Degree in Computer Science, Gifu University
+
 🏢 Industry Experience: Healthcare, Finance, Education, IT Services & Consulting
+
 💡 Approach: Engineer-first mindset; I focus on solving problems, not just writing code
+
 🤝 Collaboration: Strong team player, mentor, and advocate for high-quality code practices
 
 🛠️ Core Expertise
